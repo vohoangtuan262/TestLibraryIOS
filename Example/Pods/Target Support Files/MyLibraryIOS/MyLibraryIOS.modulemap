@@ -1,0 +1,6 @@
+framework module MyLibraryIOS {
+  umbrella header "MyLibraryIOS-umbrella.h"
+
+  export *
+  module * { export * }
+}

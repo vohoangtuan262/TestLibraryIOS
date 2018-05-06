@@ -1,0 +1,16 @@
+PODS:
+  - MyLibraryIOS (0.1.0)
+
+DEPENDENCIES:
+  - MyLibraryIOS (from `../`)
+
+EXTERNAL SOURCES:
+  MyLibraryIOS:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MyLibraryIOS: 2e45e4af6cfec0d1f079d1b815f7c104e4a835c8
+
+PODFILE CHECKSUM: 545a9dcb29c53cc9a8748180bde4ce191b345087
+
+COCOAPODS: 1.5.0
